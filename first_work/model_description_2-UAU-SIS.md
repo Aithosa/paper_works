@@ -108,8 +108,6 @@
 
 <img src="/imgs/New_demo_fixed_100_loop_50_steps.png" align=center />
 <img src="/imgs/New_demo_fixed_100_loop_50_steps_double_BA.png" align=center />
-<!-- <div align=center>![图3-1-传播率曲线](/imgs/New_demo_fixed_100_loop_50_steps.png)
-<div align=center>![图3-2-传播率曲线](/imgs/New_demo_fixed_100_loop_50_steps_double_BA.png) -->
 
 *图3 传播率曲线。*
 
