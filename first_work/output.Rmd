@@ -12,18 +12,18 @@ classoption: "hyperref,"
 ---
 
 
-## 对模型的简洁描述
+# 对模型的简洁描述
 
-### 1. 模型描述
+## 1. 模型描述
 
 模型地址: [multiplex_networks.m](https://github.com/Aithosa/Epidemic-Information_spreading/blob/master/Matlab/multiplex_networks.m)
 
-#### 1.1 网络模型
+### 1.1 网络模型
 
 1. 双层网络，节点数 $N=2,000$ 其中上层为WS模型;下层为BA模型。
 2. 双层网络，节点数 $N=2,000$ 的BA网络执行。 为了保证两层网络的相关性，在接触层BA网络上随机增加了400条边作为信息传播层。
 
-#### 1.2 传播模型
+### 1.2 传播模型
 
 下层为SIS传播模型，上层为UAU传播模型。
 
@@ -62,7 +62,7 @@ classoption: "hyperref,"
 
 ------
 
-## 正式描述
+# 正式描述
 ## 3. 模型
 
 ### 3.1 符号说明
