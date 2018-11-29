@@ -2,7 +2,7 @@
 
 *Zhan X X, Liu C, Zhou G, et al. Coupling dynamics of epidemic spreading and information diffusion on complex networks[J]. Applied Mathematics and Computation, 2018, 332: 437-448.*
 
-![论文信息](./imgs/article.png)
+![论文信息](../imgs/article.png)
 
 ## 网络参数
 
@@ -39,6 +39,6 @@
 
 4. 原论文图片
 
-![figure4](.\imgs\original_image.png)
+![figure4](..\imgs\original_image.png)
 
 原论文采用$N=10000$, $<k>=15$的ER网络, 且进行了10000次独立实现，目前还无法得知抖动是否在进行10000次独立实现后能否消除震动。
