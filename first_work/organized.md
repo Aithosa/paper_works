@@ -16,15 +16,12 @@
   * [Address](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.052817)
   * 网络构建方法没看懂
   * 提到了上面两篇
-
 * Cozzo E, Banos R A, Meloni S, et al. **Contact-based social contagion in multiplex networks**[J]. Physical Review E, 2013, 88(5): 050801.
   * [Address](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.050801)
   * 提到的双层网络表示矩阵
-
 * Yağan O, Gligor V. **Analysis of complex contagions in random multiplex networks**[J]. Physical Review E, 2012, 86(3): 036103.
   * [Address](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.86.036103)
   * 
-
 * Zhao D, Li L, Peng H, et al. **Multiple routes transmitted epidemics on multiplex networks**[J]. Physics Letters A, 2014, 378(10): 770-776.
   * [Address](https://www.sciencedirect.com/science/article/pii/S0375960114000607)
   * 还算有意思，可以再看看。
@@ -34,4 +31,27 @@
   * 比较有用，但是信息不多；可以参考引用
 * Wang W, Liu Q H, Cai S M, et al. **Suppressing disease spreading by using information diffusion on multiplex networks**[J]. Scientific reports, 2016, 6: 29259.
   * [Address](https://www.nature.com/articles/srep29259)
-  * 
+  * 主要发现是，有一个最佳的信息传输率，显着抑制疾病传播
+  * SIRV
+  * 值得细看
+* Hu Y, Havlin S, Makse H A. **Conditions for viral influence spreading through multiplex correlated social networks**[J]. Physical Review X, 2014, 4(2): 021031.
+  * [Address](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.021031)
+  * 没太看明白
+* Zuzek L G A, Buono C, Braunstein L A. **Epidemic spreading and immunization strategy in multiplex networks**[C]//Journal of Physics: Conference Series. IOP Publishing, 2015, 640(1): 012007.
+  * [Address](http://iopscience.iop.org/article/10.1088/1742-6596/640/1/012007/meta)
+  * 网页无法预览，可以看看论文
+* Wang Z, Zhao D W, Wang L, et al. **Immunity of multiplex networks via acquaintance vaccination**[J]. EPL (Europhysics Letters), 2015, 112(4): 48002.
+  * [Address](http://iopscience.iop.org/article/10.1209/0295-5075/112/48002/meta)
+  * 多层网络的免疫，可以再细看看
+* Wang W, Tang M, Yang H, et al. **Asymmetrically interacting spreading dynamics on complex layered networks**[J]. Scientific reports, 2014, 4: 5097.
+  * [Address](https://www.nature.com/articles/srep05097)
+  * 有必要构建一个具有可调节层间相关程度的两层相关网络(见论文后的方法)
+  * 可以细看一下方法
+* Lee K M, Min B, Goh K I. **Towards real-world complexity: an introduction to multiplex networks**[J]. The European Physical Journal B, 2015, 88(2): 48.
+  * [Address](https://link.springer.com/article/10.1140/epjb/e2015-50742-1)
+  * 小综述 
+* Nicosia V, Latora V. **Measuring and modeling correlations in multiplex networks**[J]. Physical Review E, 2015, 92(3): 032805.
+  * [Address](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.032805)
+* Zhao D, Wang L, Li S, et al. **Immunization of epidemics in multiplex networks**[J]. PloS one, 2014, 9(11): e112018.
+  * [Address](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112018)
+  * 提出了多种网络的四种免疫策略，包括基于多路节点的随机免疫和靶向免疫，以及基于层节点的随机免疫和靶向免疫(式子没看懂)
